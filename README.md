@@ -48,12 +48,12 @@ be doing, let me do a brief roadmap
 
 * MVP is just a blog, no fanciness. In particular, I want:
   * A Jekyll powered blog that is in this GitHub repo
-  * It's published to GitHub pages
-  * It uses breakpoint.royalsflush.com
+  * It's published to GitHub pages (done)
+  * It uses breakpoint.royalsflush.com (done)
   * It has a first post detailing the intention of the blog and mulling over
     some of what I already mentioned here -- I think that, for maximum historic
     coolness, I think I want a frozen version of this README. That seems pretty
-    neat.
+    neat. (done)
 
 ### Milestone half: Google analytics
 
