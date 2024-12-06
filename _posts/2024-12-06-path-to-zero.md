@@ -91,7 +91,7 @@ gpg --keyserver keyserver.ubuntu.com --recv-keys 409B6B1796C275462A1703113804BB8
 gpg: keyserver receive failed: No route to host
 ```
 
-To be continued...
+Filed https://github.com/royalsflush/breakpoint/issues/4. To be continued...
 
 ---
 [1] Because remember, the blog itself is not the main project, Minesweeper is.
