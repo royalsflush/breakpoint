@@ -93,3 +93,15 @@ For this milestone, I want to define better:
 
 Edit: I think I settled on (1) -- I want projects, technologies and topic (which
 is a broader categorisation). 
+
+## How to run locally
+
+Install:
+
+* `rvm` to manage ruby versions. Trust me on this one, otherwise your life is
+gonna be harder than you probably want
+* `gem` to manage ruby packages.
+* `jekyll` (through `gem install bundle`)
+
+I'm personally using ruby 3.3.6. After you have all the dependencies installed,
+you can use `jekyll s`, and it will serve in http://localhost.
