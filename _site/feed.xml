@@ -1,20 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-09T10:13:42-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2025/05/09/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-05-09T10:06:59-04:00</published><updated>2025-05-09T10:06:59-04:00</updated><id>http://localhost:4000/jekyll/update/2025/05/09/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/05/09/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-09T10:45:09-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Round-abouting and closing boxes</title><link href="http://localhost:4000/jekyll/update/2025/05/09/closing-boxes.html" rel="alternate" type="text/html" title="Round-abouting and closing boxes" /><published>2025-05-09T10:06:59-04:00</published><updated>2025-05-09T10:06:59-04:00</updated><id>http://localhost:4000/jekyll/update/2025/05/09/closing-boxes</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/05/09/closing-boxes.html"><![CDATA[<p>This has really been a while… but after 6 months of round-abouting, I have
+come back to this skeleton of a blog to get its layout fixed and going. A lot of
+changes have happened in the meantime, the biggest of them what I’m fondly
+calling “closing boxes”. That is: realising the value that you left on the
+table. Or, in less corporate-y language, “finishing stuff”.</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<p>This post closes the first milestone of breakpoint, which is exciting. But it
+has taught me something: if you’re not going for a particular thing, ask
+yourself why. “Round-abouting”, the term that I used in the beginning of this
+post like it’s common colloquial English. What I meant by it is when you dabble
+on a bunch of stuff but you never really commit to something. It is normally the
+symptom, not the root cause. It can be a symptom of:</p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<ul>
+  <li>Fear / confidence</li>
+  <li>Lack of sufficient skill</li>
+  <li>Other (often hidden) priorities</li>
+</ul>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p>Pay attention to your round-abouting, because it will teach you all these
+things. It will teach you were you feel weak, where you can improve, and what’s
+important to you. For me, the rounda-abouting took the form of two realisations
+that I couldn’t be more thankful for: wanting to go back into proper software
+engineering and “building” stuff. But before that, realising that I wanted to
+have a more solid foundation than I had before. So it was exactly the last post
+of this blog that made me realise I wanted to focus on learn before I got my
+feet proper wet again.</p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<p>The result? I got accepted into UC Boulder’s Master’s programme (
+https://www.colorado.edu/cs/academics/online-programs/mscs-coursera), and I have
+taken about 7 classes to date. I’m having a blast, and it was directly tied to
+that one post back in December.</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">A crack in the foundation</title><link href="http://localhost:4000/2024/12/29/a-crack-in-the-foundation.html" rel="alternate" type="text/html" title="A crack in the foundation" /><published>2024-12-29T00:00:00-05:00</published><updated>2024-12-29T00:00:00-05:00</updated><id>http://localhost:4000/2024/12/29/a-crack-in-the-foundation</id><content type="html" xml:base="http://localhost:4000/2024/12/29/a-crack-in-the-foundation.html"><![CDATA[<p>Even though I did take a break from hobby-coding (i.e. pushing things to any of
+<p>Still, after that long detour, here am I, closing the milestone 0 of this
+particular box. I’m unsure when I’ll move to milestone 1. I have other boxes
+(like the master’s) that I believe are more aligned with what I want at this
+point in time. I’ll keep writing about them here, when I can.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[This has really been a while… but after 6 months of round-abouting, I have come back to this skeleton of a blog to get its layout fixed and going. A lot of changes have happened in the meantime, the biggest of them what I’m fondly calling “closing boxes”. That is: realising the value that you left on the table. Or, in less corporate-y language, “finishing stuff”.]]></summary></entry><entry><title type="html">A crack in the foundation</title><link href="http://localhost:4000/2024/12/29/a-crack-in-the-foundation.html" rel="alternate" type="text/html" title="A crack in the foundation" /><published>2024-12-29T00:00:00-05:00</published><updated>2024-12-29T00:00:00-05:00</updated><id>http://localhost:4000/2024/12/29/a-crack-in-the-foundation</id><content type="html" xml:base="http://localhost:4000/2024/12/29/a-crack-in-the-foundation.html"><![CDATA[<p>Even though I did take a break from hobby-coding (i.e. pushing things to any of
 my GitHub repos) in the last three weeks, I was far from inactive in my computer
 science learning paths. I just didn’t update this blog, I suppose! I have
 learned that there are a couple of big gaps in my computer science foundational
