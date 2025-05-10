@@ -10,7 +10,7 @@ One of my favourite things about engineering and in particular, about
 programming, is very well summarised by this gif. I have it saved in my
 computer, that's how much I like it
 
-[!deep puddle](/assets/deep_puddle.gif)
+![deep puddle](/assets/deep_puddle.gif)
 
 I also vaguely remember an XKCD comic about the same topic. Programming is,
 effectively, about **side quests**. I can't find the comment, please shoot me an
