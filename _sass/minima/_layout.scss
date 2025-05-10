@@ -110,9 +110,19 @@
   padding: $spacing-unit 0;
 }
 
+.footer-first-row {
+  width: 100%;
+  overflow: hidden;
+}
+
 .footer-heading {
+  float: left;
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit * 0.5;
+}
+
+.rss-subscribe {
+  float: right;
 }
 
 .contact-list,
