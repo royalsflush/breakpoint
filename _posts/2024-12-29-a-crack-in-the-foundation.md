@@ -1,6 +1,8 @@
 ---
+layout: post
 title: A crack in the foundation
 date: 2024-12-29
+tags: ["system design", "kubernetes", "linux", "operating systems"] 
 ---
 
 Even though I did take a break from hobby-coding (i.e. pushing things to any of

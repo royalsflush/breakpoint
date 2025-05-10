@@ -2,7 +2,7 @@
 layout: post
 title:  "Round-abouting and closing boxes"
 date:   2025-05-09 10:06:59 -0400
-categories: jekyll update
+tags: breakpoint jekyll milestone masters 
 ---
 This has really been a while... but after 6 months of round-abouting, I have
 come back to this skeleton of a blog to get its layout fixed and going. A lot of
