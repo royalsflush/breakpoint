@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Breakpoint: path to milestone zero"
+date: 2024-12-06
+tags: breakpoint ruby milestone domain DNS ruby jekyll
+---
 # Breakpoint: path to milestone zero
 
 One of my favourite things about engineering and in particular, about
